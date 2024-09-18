@@ -9,3 +9,6 @@
 $ git init
 <script>alert(1)</script>
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
